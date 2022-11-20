@@ -1,0 +1,2 @@
+- Clone source from Github
+- Type 'docker-compose up -d' to run
